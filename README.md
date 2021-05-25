@@ -100,7 +100,7 @@ Después de que el script finalize, tienes que modificar el archivo `.env`. Los 
 * `DB_DATABASE`, el nombre de la base de datos. `DB_USERNAME`, el usuario con el que conectarse a la base de datos. `DB_PASSWORD`, la contraseña del usuario anterior.
 * `MAIL_USERNAME`, un nombre de usuario. `MAIL_PASSWORD`, la clave de la dirección del correo. `MAIL_FROM_ADDRESS`, la dirección de correo que se enviará el correo.
 * `PUSHER_APP_ID`, `PUSHER_APP_KEY`, `PUSHER_APP_SECRET` y `PUSHER_APP_CLUSTER` con las claves que proporciona [Pusher](https://pusher.com/).
-* `STRIPE_KEY` y `STRIPE_SECRET` con las claves que proporciona [Stripe](https://stripe.com/).
+* `STRIPE_KEY` y `STRIPE_SECRET` con las claves que proporciona [Stripe](https://stripe.com/docs/keys).
 
 [Ejemplo](https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/.env) final en la demostración.
 
