@@ -12,4 +12,6 @@ chmod 777 storage/logs
 chmod 777 storage/framework/sessions
 chmod 777 storage/framework/views
 chmod 777 storage/logs/laravel.log
-chmod 777 storage/logs/laravel.log
+chmod 777 storage/framework/cache
+chmod 777 storage/framework/cache/data
+chmod 777 public/images/background
