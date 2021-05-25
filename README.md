@@ -142,4 +142,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [stars-url]: https://github.com/kchafla/Watch-With-Us/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kchafla/Watch-With-Us.svg?style=for-the-badge
 [issues-url]: https://github.com/kchafla/Watch-With-Us/issues
-[product-screenshot]: https://dawjavi.insjoaquimmir.cat/kchafla/logo.png
+[product-screenshot]: https://dawjavi.insjoaquimmir.cat/kchafla/demo.png
