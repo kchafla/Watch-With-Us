@@ -50,10 +50,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+Watch With Us no es un servicio de transmisión donde un usuario transmite y los demás simplemente miran. En su lugar, todos los usuarios de una sala pueden buscar contenido y seleccionar videos o pistas de audio para que todos se reproduzcan en la sala. 
 
 ### Realizado con 
 
