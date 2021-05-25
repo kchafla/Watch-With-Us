@@ -38,7 +38,8 @@
       <a href="#comenzando">Comenzando</a>
       <ul>
         <li><a href="#requisitos-previos">Requisitos previos</a></li>
-        <li><a href="#instalación">Instalación</a></li>
+        <li><a href="#descargar-proyecto">Descargar proyecto</a></li>
+        <li><a href="#montar-aplicación">Montar aplicación</a></li>
       </ul>
     </li>
     <li><a href="#recursos">Recursos</a></li>
@@ -65,9 +66,9 @@ Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 
 ### Requisitos previos
 
-Para poder utilizar Laravel tienes que tener un servidor LAMP o utilizar la herramientra oficial, [Laravel Homestead](https://laravel.com/docs/8.x/homestead).
+Para poder utilizar Laravel tienes que tener un servidor [LAMP](https://es.wikipedia.org/wiki/LAMP) o utilizar la herramientra oficial, [Laravel Homestead](https://laravel.com/docs/8.x/homestead). El servidor también tiene que tener activado el protocolo HTTPS para poder funcionar correctamente.
 
-### Instalación
+### Descargar proyecto
 
 1. Clone the repo
    ```sh
@@ -77,6 +78,8 @@ Para poder utilizar Laravel tienes que tener un servidor LAMP o utilizar la herr
    ```sh
    npm install
    ```
+
+### Montar aplicación
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Recursos
