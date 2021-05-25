@@ -2,14 +2,12 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/kchafla/Watch-With-Us">
-    <img src="https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/images/web/logo.png" alt="Logo">
+    <img src="https://dawjavi.insjoaquimmir.cat/kchafla/logo.png" alt="Logo">
   </a>
 
   <h2 align="center">Watch With Us</h2>
@@ -18,8 +16,7 @@
     Watch With Us tiene un objetivo simple: facilitar que los amigos vean videos juntos, sin importar en qué parte del mundo se encuentren. La idea de Watch With Us es brindarte un lugar genial donde puedas relajarte y divertirte con tus amigos.
     <br />
     <br />
-    <br />
-    <a href="https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/">View Demo</a>
+    <a href="https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/">Ver demostración</a>
     ·
     <a href="https://github.com/kchafla/Watch-With-Us/issues">Reportar un error</a>
     ·
@@ -56,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://dawjavi.insjoaquimmir.cat/kchafla/demo.png)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
