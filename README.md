@@ -118,7 +118,7 @@ Para que funcione correctamente las funcionalidades en tiempo real, hay que modi
    npm run dev
    ```
 
-Para finalizar, hay que añadir la clave de API de [YouTube Data API](https://developers.google.com/youtube/v3) en la variable `key` dentro del archivo `public/js/reproductor.js`. Tambíen hay que añadir la clave API publica de [Stripe](https://stripe.com) en la variable `stripe` dentro del archivo `public/js/stripe.js`.
+Para finalizar, hay que añadir la clave de API de [YouTube Data API](https://developers.google.com/youtube/v3/getting-started) en la variable `key` dentro del archivo `public/js/reproductor.js`. Tambíen hay que añadir la clave API publica de [Stripe](https://stripe.com/docs/keys) en la variable `stripe` dentro del archivo `public/js/stripe.js`.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Recursos
