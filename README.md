@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://dawjavi.insjoaquimmir.cat/kchafla/demo.png)
+[![Product Name Screen Shot][product-screenshot]](https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -142,3 +142,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [stars-url]: https://github.com/kchafla/Watch-With-Us/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kchafla/Watch-With-Us.svg?style=for-the-badge
 [issues-url]: https://github.com/kchafla/Watch-With-Us/issues
+[product-screenshot]: https://dawjavi.insjoaquimmir.cat/kchafla/logo.png
