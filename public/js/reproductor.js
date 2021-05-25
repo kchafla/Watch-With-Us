@@ -1,3 +1,5 @@
+var key = ""; // INSERTAR CLAVE DE API PROPORCIONADA POR GOOGLE CLOUD //
+
 // CREAR EL REPRODUCTOR DE VIDEOS //
 let tag = document.createElement('script');
 
@@ -74,8 +76,6 @@ let $formulario = $("#buscar_form");
 
 $formulario.submit(function( event ) {
     event.preventDefault(); 
-
-    let key = ""; // INSERTAR CLAVE DE API PROPORCIONADA POR GOOGLE CLOUD //
     
     let nom = $formulario.children().children().children("#buscar_nom").val();
 
