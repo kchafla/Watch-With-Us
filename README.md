@@ -145,7 +145,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [stars-url]: https://github.com/kchafla/Watch-With-Us/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kchafla/Watch-With-Us.svg?style=for-the-badge
 [issues-url]: https://github.com/kchafla/Watch-With-Us/issues
-[license-shield]: https://img.shields.io/github/license/kchafla/Watch-With-Us.svg?style=for-the-badge
-[license-url]: https://github.com/kchafla/Watch-With-Us/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/kchafla
