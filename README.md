@@ -31,17 +31,17 @@
     <li>
       <a href="#sobre-el-proyecto">Sobre el proyecto</a>
       <ul>
-        <li><a href="#built-with">Realizado con </a></li>
+        <li><a href="#realizado-con">Realizado con </a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#comenzando">Comenzando</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#requisitos-previos">Requisitos previos</a></li>
+        <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#acknowledgements">Agradecimientos</a></li>
+    <li><a href="#agradecimientos">Agradecimientos</a></li>
   </ol>
 </details>
 
@@ -62,11 +62,11 @@ Here's a blank template to get started:
 * [Stripe](https://stripe.com)
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Comenzando
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### Requisitos previos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -74,7 +74,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Instalación
 
 1. Clone the repo
    ```sh
