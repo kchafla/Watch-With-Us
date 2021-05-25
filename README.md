@@ -1,9 +1,3 @@
-<p align="center"><a href="https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/" target="_blank"><img src="https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/images/web/logo.png"></a></p>
-
-## Watch With Us
-
-Watch With Us tiene un objetivo simple: facilitar que los amigos vean videos juntos, sin importar en qué parte del mundo se encuentren. La idea de Watch With Us es brindarte un lugar genial donde puedas relajarte y divertirte con tus amigos.
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -18,10 +12,10 @@ Watch With Us tiene un objetivo simple: facilitar que los amigos vean videos jun
     <img src="https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/images/web/logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Watch With Us</h3>
 
   <p align="center">
-    project_description
+    Watch With Us tiene un objetivo simple: facilitar que los amigos vean videos juntos, sin importar en qué parte del mundo se encuentren. La idea de Watch With Us es brindarte un lugar genial donde puedas relajarte y divertirte con tus amigos.
     <br />
     <a href="https://github.com/kchafla/Watch-With-Us"><strong>Explore the docs »</strong></a>
     <br />
