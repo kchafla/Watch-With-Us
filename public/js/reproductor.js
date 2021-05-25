@@ -75,7 +75,8 @@ let $formulario = $("#buscar_form");
 $formulario.submit(function( event ) {
     event.preventDefault(); 
 
-    let key = "AIzaSyBsWcqtCv82R3xB1FjcCw1SSDE_avou5IE";
+    let key = ""; // INSERTAR CLAVE DE API PROPORCIONADA POR GOOGLE CLOUD //
+    
     let nom = $formulario.children().children().children("#buscar_nom").val();
 
     fetch("https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&key=" + key + "&q=" + nom)
