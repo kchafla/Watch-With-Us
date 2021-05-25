@@ -61,15 +61,11 @@ Watch With Us no es un servicio de transmisión donde un usuario transmite y los
 <!-- GETTING STARTED -->
 ## Comenzando
 
-To get a local copy up and running follow these simple steps.
+Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 
 ### Requisitos previos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Para poder utilizar Laravel tienes que tener un servidor LAMP o utilizar la herramientra oficial, [Laravel Homestead](https://laravel.com/docs/8.x/homestead).
 
 ### Instalación
 
