@@ -1,7 +1,7 @@
 $("#errors").hide();
 $("#correcto").hide();
 
-const stripe = Stripe('pk_test_51IuPyUAjWB0ChZlOo91RMzIjWymOuejV71HxZs9P1UgHJxZgK0u1rFIYorPiehB5JD5m7EwqWaha7kyhlv2hZUw700j28MLkJ3');
+const stripe = Stripe(''); // INSERTAR CLAVE API DE STRIPE //
 
 const elements = stripe.elements();
 const cardElement = elements.create('card');
