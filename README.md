@@ -66,17 +66,23 @@ Para obtener una copia local en funcionamiento, siga estos sencillos pasos.
 
 ### Requisitos previos
 
-Para poder utilizar Laravel tienes que tener un servidor [LAMP](https://es.wikipedia.org/wiki/LAMP) o utilizar la herramientra oficial, [Laravel Homestead](https://laravel.com/docs/8.x/homestead). El servidor también tiene que tener activado el protocolo HTTPS para poder funcionar correctamente.
+Para poder utilizar Laravel tienes que tener un servidor [LAMP](https://es.wikipedia.org/wiki/LAMP) o utilizar la herramientra oficial, [Laravel Homestead](https://laravel.com/docs/8.x/homestead). El servidor también tiene que tener activado el protocolo [HTTPS](https://es.wikipedia.org/wiki/Protocolo_seguro_de_transferencia_de_hipertexto) para poder funcionar correctamente.
 
 ### Descargar proyecto
 
-1. Clone the repo
+La manera recomendada para descargar el proyecto es la siguiente:
+
+1. Descargar el repositorio.
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   wget https://github.com/kchafla/Watch-With-Us/archive/refs/heads/master.zip
    ```
-2. Install NPM packages
+2. Descomprimir el paquete descargado.
    ```sh
-   npm install
+   unzip master.zip
+   ```
+3. Entrar en el directorio /Watch-With-Us-master.
+   ```sh
+   cd Watch-With-Us-master/
    ```
 
 ### Montar aplicación
