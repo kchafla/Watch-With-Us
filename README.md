@@ -14,8 +14,8 @@ Watch With Us tiene un objetivo simple: facilitar que los amigos vean videos jun
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/kchafla/Watch-With-Us">
+    <img src="https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/images/web/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">project_title</h3>
@@ -23,14 +23,14 @@ Watch With Us tiene un objetivo simple: facilitar que los amigos vean videos jun
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kchafla/Watch-With-Us"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/kchafla/Watch-With-Us">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/kchafla/Watch-With-Us/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/kchafla/Watch-With-Us/issues">Request Feature</a>
   </p>
 </p>
 
