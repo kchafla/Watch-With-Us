@@ -80,12 +80,21 @@ La manera recomendada para descargar el proyecto es la siguiente:
    ```sh
    unzip master.zip
    ```
-3. Entrar en el directorio /Watch-With-Us-master.
+3. Entrar en el directorio que se ha creado.
    ```sh
    cd Watch-With-Us-master/
    ```
 
 ### Montar aplicación
+
+Una vez descargado todos los archivos del repositorio, tenemos que montar la aplicación. Para facilitar este proceso, hemos creado un script que descarga las dependencias de la aplicación, genera el archivo de configuración y actualiza el permisos de las carpetas para asegurar que todo funcione correctamente.
+
+1. Ejecutar el script.
+   ```sh
+   ./InstalarAplicacion.sh
+   ```
+
+
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Recursos
