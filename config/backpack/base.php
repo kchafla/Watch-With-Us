@@ -72,7 +72,7 @@ return [
     // ------
 
     // Menu logo. You can replace this with an <img> tag if you have a logo.
-    'project_logo'   => ' <img src="https://dawjavi.insjoaquimmir.cat/kchafla/Master/Projecte/public/images/web/logo.png" class="w-100"></img> Watch With Us',
+    'project_logo'   => ' Watch With Us',
 
     // Show / hide breadcrumbs on admin panel pages.
     'breadcrumbs' => true,

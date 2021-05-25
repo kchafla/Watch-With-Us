@@ -106,7 +106,7 @@
                         </div>
                     </div>
 
-                    <div class="trampa" style="height: 160px;">
+                    <div class="trampa" style="height: 600px;">
                     </div>
 
                     <div id="videos" class="container p-0 mt-3"></div>

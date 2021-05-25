@@ -81,6 +81,10 @@ Echo.private($("meta[name='room']").attr("content"))
     .listen('RemoveUserNotification', (e) => {
         $("#" + e.user).remove();
         $("#linkcompartir").text($("meta[name='url']").attr("content") + "/invitacion/" + e.token);
+
+        if ($("meta[name='user']").attr("content") == e.user) {
+            location.reload();
+        }
     })
     .listen('NewUserNotification', (e) => {
         NewUser(e.user);
