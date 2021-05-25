@@ -94,6 +94,16 @@ Una vez descargado todos los archivos del repositorio, tenemos que montar la apl
    ./InstalarAplicacion.sh
    ```
 
+Después de que el script finalize, tienes que modificar el archivo `.env`. Los campos que tienes que modificar son los siguientes:
+
+* `APP_URL`, tiene que apuntar hacia la carpeta `public` del proyecto.
+* `DB_DATABASE`, el nombre de la base de datos. `DB_USERNAME`, el usuario con el que conectarse a la base de datos. `DB_PASSWORD`, la contraseña del usuario anterior.
+* ``.
+* ``.
+* ``.
+
+[Ejemplo](https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/.env) final de la demostración.
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
