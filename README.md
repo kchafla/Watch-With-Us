@@ -104,6 +104,19 @@ Después de que el script finalize, tienes que modificar el archivo `.env`. Los 
 
 [Ejemplo](https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/.env) final de la demostración.
 
+2. Una vez modificado el archivo `.env`, hay que crear las tablas en la base de datos.
+   ```sh
+   php artisan migrate
+   ```
+
+Para que funcione correctamente las funcionalidades en tiempo real, hay que modificar la propiedad `authEndpoint` del archivo `resources/js/bootstrap.js`. Esta propiedad tiene que apuntar hacia `broadcasting/auth` que se encuentra en la carpeta `public`. 
+[Ejemplo](https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/resources/js/bootstrap.js) final de la demostración.
+
+3. Despues de modificar el archivo mencionado anteriormente, hay que actualizar los archivos JavaScript del proyecto.
+   ```sh
+   npm run dev
+   ```
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
