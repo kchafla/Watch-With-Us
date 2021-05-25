@@ -41,7 +41,7 @@
         <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#agradecimientos">Agradecimientos</a></li>
+    <li><a href="#recursos">Recursos</a></li>
   </ol>
 </details>
 
@@ -59,7 +59,7 @@ Here's a blank template to get started:
 
 * [Laravel](https://laravel.com)
 * [Pusher](https://pusher.com)
-* [Stripe](https://stripe.com)
+* [jQuery](https://jquery.com)
 
 <!-- GETTING STARTED -->
 ## Comenzando
@@ -86,13 +86,14 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <!-- ACKNOWLEDGEMENTS -->
-## Agradecimientos 
+## Recursos 
 
 * [YouTube Data API](https://developers.google.com/youtube/v3)
 * [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference)
 * [Bootstrap](https://getbootstrap.com)
 * [CryptoJS](https://cryptojs.gitbook.io/docs/)
 * [Moment.js](https://momentjs.com)
+* [Stripe](https://stripe.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
