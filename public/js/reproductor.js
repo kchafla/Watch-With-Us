@@ -81,7 +81,6 @@ $formulario.submit(function( event ) {
     fetch("https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&type=video&key=" + key + "&q=" + nom)
     .then(response => response.json())
     .then(function(videos) {
-        console.log(videos);
         $("#videos").text("");
 
         let $row = $("<div>").attr("class", "row p-2");

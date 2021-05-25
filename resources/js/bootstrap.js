@@ -38,6 +38,6 @@ window.Echo = new Echo({
     key: process.env.MIX_PUSHER_APP_KEY,
     cluster: process.env.MIX_PUSHER_APP_CLUSTER,
     forceTLS: true,
-    authEndpoint: 'https://dawjavi.insjoaquimmir.cat/kchafla/Master/Projecte/public/broadcasting/auth'
+    authEndpoint: 'https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/broadcasting/auth'
 });
 

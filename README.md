@@ -26,7 +26,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">Tabla de Contenidos</h2></summary>
   <ol>
     <li>
       <a href="#sobre-el-proyecto">Sobre el proyecto</a>
@@ -86,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <!-- ACKNOWLEDGEMENTS -->
-## Recursos 
+## Recursos
 
 * [YouTube Data API](https://developers.google.com/youtube/v3)
 * [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference)

@@ -3848,7 +3848,7 @@ window.Echo = new laravel_echo__WEBPACK_IMPORTED_MODULE_0__.default({
   key: "b09b45886bf1ffd74a31",
   cluster: "eu",
   forceTLS: true,
-  authEndpoint: 'https://dawjavi.insjoaquimmir.cat/kchafla/Master/Projecte/public/broadcasting/auth'
+  authEndpoint: 'https://dawjavi.insjoaquimmir.cat/kchafla/Watch-With-Us/public/broadcasting/auth'
 });
 
 /***/ }),
